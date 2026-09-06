@@ -40,3 +40,16 @@ Download the data, prepare the required embeddings, and update the input and out
 ```bash
 python FlowShield_ETH/P4_SARs_generation/S1_FlowShield.py
 ```
+
+## Citation
+
+If you compare with, build on, or use aspects of this work, please cite the following:
+
+```bibtex
+@inproceedings{fu2026flowshield,
+  title={{FLOWSHIELD}: Cryptocurrency anti-money laundering with transaction semantics parsing and fund flow tracking},
+  author={Fu, Qishuang and Deppeler, Andreas and Liu, Joseph K. and Liu, Yixin and Pan, Shirui and Wang, Qin and Wang, Weiqing and Yuen, Tsz Hon},
+  booktitle={ICDM},
+  year={2026}
+}
+```

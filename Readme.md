@@ -20,6 +20,11 @@ Due to repository storage limitations, the data are hosted separately. BybitML i
 
 The code for Bitcoin and Ethereum is provided in [`FlowShield_BTC/`](FlowShield_BTC/) and [`FlowShield_ETH/`](FlowShield_ETH/), respectively.
 
+## License
+
+This code is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
+Commercial use requires separate permission from the copyright holder.
+
 ## Citation
 
 If you compare with, build on, or use aspects of this work, please cite the following:
